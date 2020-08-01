@@ -14,9 +14,9 @@ ReactDOM.render(
   <Provider store={store}>
     <BrowserRouter>
       <Switch>
-        <Route path="/" exact component={HeySisters} />
-        <Route path="/:name" exact component={Personal} />
-        <Route path="/:name/gallery" exact component={Gallery} />
+        <Route path="/rakshabandhan/" exact component={HeySisters} />
+        <Route path="/rakshabandhan/:name" exact component={Personal} />
+        <Route path="/rakshabandhan/:name/gallery" exact component={Gallery} />
       </Switch>
     </BrowserRouter>
   </Provider>,
