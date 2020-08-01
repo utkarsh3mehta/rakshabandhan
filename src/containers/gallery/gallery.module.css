@@ -1,0 +1,35 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container>h1 {
+    text-decoration: underline;
+}
+
+button.goBack {
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: black;
+    background-color: transparent;
+    border: none;
+    font-size: 1.3em;
+    margin: 10px;
+}
+
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.test {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 15px;
+}

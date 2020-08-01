@@ -1,0 +1,56 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container>h1 {
+    font-size: 5em;
+    margin: 15px 0;
+}
+
+.container>hr {
+    width: 80%;
+    color: white;
+}
+
+.whoAmI {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.whoAmI>p {
+    font-size: 1.5em;
+    margin: 10px 10px;
+}
+
+.whoAmI>select {
+    background-color: transparent;
+    border: 1px lightgray solid;
+    box-sizing: border-box;
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+.container>button {
+    font-size: 1em;
+    margin: 20px 0;
+    background-color: transparent;
+    border: 1px orangered solid;
+    padding: 10px;
+    box-shadow: 4px 4px 4px black;
+}
+
+.container>button:hover {
+    box-shadow: none;
+    border: 1px black solid;
+}
+
+.container>button:active {
+    border: 1px black solid;
+    box-shadow: 4px 4px 4px black inset;
+}
