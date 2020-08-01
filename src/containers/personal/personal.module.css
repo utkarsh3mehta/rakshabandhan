@@ -22,6 +22,17 @@
     font-family: 'raksha_cursive';
 }
 
+a.goBack {
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    border: none;
+    margin: 10px;
+}
+
 .gallery {
     position: fixed;
     top: 0;

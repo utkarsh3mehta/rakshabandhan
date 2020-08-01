@@ -39,6 +39,7 @@ class Personal extends Component {
 
     render() {
         return <div className={styles.container}>
+            <a className={styles.goBack} href={window.location.origin}>Wrong sister?</a>
             {this.state.havePhotos
                 ? <a className={styles.gallery} href={window.location.href + '/gallery'}>Photo Gallery</a>
                 : null}
