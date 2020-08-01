@@ -2,7 +2,7 @@
   "name": "raksha-bandhan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://utkarsh3mehta.github.io/rakshabandhan",
+  "homepage": "https://utkarsh3mehta.github.io/rakshabandhan",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
