@@ -42,7 +42,7 @@ class Personal extends Component {
             window.location.replace((window.location.href).toString().split('#')[0])
         } else {
             return <div className={styles.container}>
-                <button className={styles.goBack} onClick={() => this.props.history.goBack()}>Wrong sister?</button>
+                <button className={styles.goBack} onClick={() => window.location.replace((window.location.href).toString().split('#')[0])}>Wrong sister?</button>
                 {this.state.havePhotos
                     ? <a className={styles.gallery} href={window.location.href + '/gallery'}>Photo Gallery</a>
                     : null}
