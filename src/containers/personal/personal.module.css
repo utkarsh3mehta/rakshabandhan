@@ -20,7 +20,6 @@
     padding: 50px 0;
     box-sizing: border-box;
     font-family: 'raksha_cursive';
-
 }
 
 .gallery {
@@ -102,11 +101,11 @@
 
 .container>img {
     width: 250px;
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .container>sub {
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 @font-face {

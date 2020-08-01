@@ -57,8 +57,8 @@ class Personal extends Component {
                         </div>}
             </div>
             <h2>{this.state.personalMessage}</h2>
-            <img src={this.state.giftPhoto} alt="my personal gift to you.jpg" />
             <sub>-- Your gift this year -- </sub>
+            <img src={this.state.giftPhoto} alt="my personal gift to you.jpg" />
             <q>And because we can't meet because of this lockdown, I owe you Rs. {this.state.money} now!</q>
             <h1>Cheers!</h1>
         </div>
