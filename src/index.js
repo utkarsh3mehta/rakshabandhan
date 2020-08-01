@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import { Route, BrowserRouter, Switch } from "react-router-dom";
+import { Route, HashRouter as Router, Switch } from "react-router-dom";
 import store from './redux/store'
 // Components
 import HeySisters from './containers/heySisters/heySisters'
@@ -12,13 +12,13 @@ import './index.module.css'
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <Router>
       <Switch>
-        <Route path="/rakshabandhan/" exact component={HeySisters} />
-        <Route path="/rakshabandhan/:name" exact component={Personal} />
-        <Route path="/rakshabandhan/:name/gallery" exact component={Gallery} />
+        <Route path="/" exact component={HeySisters} />
+        <Route path="/:name" exact component={Personal} />
+        <Route path="/:name/gallery" exact component={Gallery} />
       </Switch>
-    </BrowserRouter>
+    </Router>
   </Provider>,
   document.getElementById('root')
 );
