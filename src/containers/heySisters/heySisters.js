@@ -18,7 +18,7 @@ class HeySisters extends Component {
     }
 
     onButtonClick = () => {
-        if (!!this.state.selectedSis) window.location.replace('/' + this.state.selectedSis)
+        if (!!this.state.selectedSis) window.location.replace('/rakshabandhan/' + this.state.selectedSis)
         else alert('Behena, select your name na first!')
     }
 
