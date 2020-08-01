@@ -22,7 +22,7 @@
     font-family: 'raksha_cursive';
 }
 
-a.goBack {
+button.goBack {
     position: fixed;
     top: 0;
     left: 0;
@@ -31,6 +31,7 @@ a.goBack {
     text-decoration: none;
     border: none;
     margin: 10px;
+    font-family: 'raksha_cursive';
 }
 
 .gallery {

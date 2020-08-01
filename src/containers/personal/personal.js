@@ -39,7 +39,7 @@ class Personal extends Component {
 
     render() {
         return <div className={styles.container}>
-            <a className={styles.goBack} href={window.location.origin}>Wrong sister?</a>
+            <button className={styles.goBack} onClick={() => this.props.history.goBack()}>Wrong sister?</button>
             {this.state.havePhotos
                 ? <a className={styles.gallery} href={window.location.href + '/gallery'}>Photo Gallery</a>
                 : null}
