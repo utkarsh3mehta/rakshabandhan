@@ -51,8 +51,8 @@ const firstState = {
             ],
         },
         'chaitali': {
-            giftPhoto: 'https://un2wgg.dm.files.1drv.com/y4m4NqZPCZknXUVbjbun6v19WQ_wcjes_ZIUctdxBvOf4ighmne9oP10W5jCxRqErcJqUoqBcOcxO3528E-55WtCSNec1W_XUibuVoPZjHQ-GK8PF-k919kZCqNnhM8ZmeypYvbuA1y_mHrpBiSJSSQCUqHQAFWI9eF1G-FHflls86x7H4gqCdvnQz6fZOcyle0AeExEIdZyKHZiZZkK9uIbA',
-            personalMessage: '',
+            giftPhoto: 'https://f3pfmg.dm.files.1drv.com/y4mj7666epkgKxiNBr2aaX51XqbD0-tn7c0Tk4t1l9xQIht4UQ7KYhzy-9MDQU8My0VIZBaqh9L2VEevkAXaOlyHeiEhcDVWT19AnXnTGgb8ra50UDzoHgRIa2Y4Cvk_wFzm9R2a_BhFUg0TwyTh4vhz8J6S18zsR1NsH5hygTynKgymVwy68qXzLMxHe8NBdN5AFgITsu2PcySxzi7Guc1Ng',
+            personalMessage: 'A lawyer friend suggested me this. Do tell me what this means.',
             yob: 1997,
             gallery: [
                 {
@@ -83,7 +83,7 @@ const firstState = {
         },
         'gauri': {
             giftPhoto: 'https://rigpsg.dm.files.1drv.com/y4mM3ROetBgD6WIxzr3u2XFjCoz5Xg_tM1B73o18vuJ15rmdqKsbwtMwBjqlZ3NanHLKX8KvoTjjBmnDSpQUyKXqeNhqgDgYA1GKLftOzAfoMfJHmKJXJrq3Z4AuX9P49DJFvc-8nLPVjhEGa2UFyVGVLDO4-wAxZGynVqqpjmpOxK7a_Tq-RXPQB_2_99B5_FhCwati5H42Cgpnmd2kfem8w',
-            personalMessage: 'Thanks for enjoying my company, just like I do too! You\'re the sweetest.',
+            personalMessage: 'Thanks for enjoying my company, just like I do yours! You\'re the sweetest.',
             yob: 2002,
             gallery: [
                 {
@@ -113,7 +113,7 @@ const firstState = {
         },
         'kanu': {
             giftPhoto: 'https://e60bea.dm.files.1drv.com/y4mAKqdF4a5f8VV961mgj7DzbaXvSXIAvG3t7IPzEMHmHr595Q4dW2aLS4epOIDyDYZPvzPBDVc2D3HVjd6rqMSLTxzLjKSAaGGkSnu79wwbfV5-geydVaRWuzBuWyPt1eIUzK5RIttw3NUD1vTKYjIzMkoJXRnuOYHQnaKMojQD4KEwfQhsgM0OJ_sp9RVqSpWbHlobz7jg8ZGoLSYGNlsfg',
-            personalMessage: '',
+            personalMessage: 'My blood sister. Take care of yourself and nobody else till September. ;-P. Love you!',
             yob: 1991,
             gallery: [
                 {
@@ -147,8 +147,8 @@ const firstState = {
             ],
         },
         'roma': {
-            giftPhoto: '',
-            personalMessage: '',
+            giftPhoto: 'https://gvrgpq.dm.files.1drv.com/y4muvebXVN33czI01EquHvkVLoPp6yRNy_Qm6Xb7ssr0s8YXAqq9a0VAF_tR8qIKDmPrE8eptYhCw6hhPg8dVht0HO2lHuWWZ8KxJ5J34T39Kh7PMqHyGFoSbVxt37Ky_AtX-CwHF2SI4NNt09vQnncLtiUIi4644sGFwy8aCfL3B4V_KWD_slli2l-sJ70aTZAwTAIvvFHFoB5MKb8Q5Mp4A',
+            personalMessage: 'Hey, all I have for you is...',
             yob: 1986,
             gallery: [
                 {
