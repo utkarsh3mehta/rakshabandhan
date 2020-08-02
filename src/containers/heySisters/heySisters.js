@@ -35,6 +35,7 @@ class HeySisters extends Component {
             </div>
             <hr />
             <button onClick={this.onButtonClick}>Oh! Noice.</button>
+            <img className={styles.bigRakhi} alt='Big rakhi' src='https://5ar59w.dm.files.1drv.com/y4mBQjlr6QRFmzCFlWEFEeISne5PI4EJgKb9VFqDN-N5tMgMlO5kknH0fvjRaa7XUwEE4uZDu-HsjgtQmgdX5-Xiz1rFYIXL3U4yEdNkBlzhgrtIBpgGZYWy0fbYrYBTppV32ye5xnfusYZWCeTUluPrto8nNtVTgObNE4C7TwMm6u0yRgI51qh09P-ZgKwrGzIMrYJiN0gYspnO_5vUXhIdg' />
         </div>
     }
 }
