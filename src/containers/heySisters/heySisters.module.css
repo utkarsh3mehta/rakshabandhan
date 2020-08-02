@@ -55,3 +55,12 @@
     border: 1px black solid;
     box-shadow: 4px 4px 4px black inset;
 }
+
+.bigRakhi {
+    position: fixed;
+    transform: translate(60px, 20%);
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    z-index: -1;
+}
